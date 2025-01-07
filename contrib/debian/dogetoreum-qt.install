@@ -1,0 +1,6 @@
+usr/local/bin/dogetoreum-qt usr/bin
+share/pixmaps/dogetoreum32.xpm usr/share/pixmaps
+share/pixmaps/dogetoreum16.xpm usr/share/pixmaps
+share/pixmaps/dogetoreum128.png usr/share/pixmaps
+debian/dogetoreum-qt.desktop usr/share/applications
+debian/dogetoreum-qt.protocol usr/share/kde4/services/

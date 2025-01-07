@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Dogetoreum Core
+Comment=Dogetoreum P2P Cryptocurrency
+Comment[de]=Verbinde mit dem Dogetoreum peer-to-peer Netzwerk
+Comment[fr]=Dogetoreum, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Dogetoreum, eşten eşe kriptografik sanal para birimi
+Exec=dogetoreum-qt %u
+Terminal=false
+Type=Application
+Icon=dogetoreum128
+MimeType=x-scheme-handler/dogetoreum;
+Categories=Office;Finance;

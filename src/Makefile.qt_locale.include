@@ -1,0 +1,22 @@
+QT_TS = \
+  qt/locale/dogetoreum_ar.ts \
+  qt/locale/dogetoreum_bg.ts \
+  qt/locale/dogetoreum_de.ts \
+  qt/locale/dogetoreum_en.ts \
+  qt/locale/dogetoreum_es.ts \
+  qt/locale/dogetoreum_fi.ts \
+  qt/locale/dogetoreum_fr.ts \
+  qt/locale/dogetoreum_it.ts \
+  qt/locale/dogetoreum_ja.ts \
+  qt/locale/dogetoreum_ko.ts \
+  qt/locale/dogetoreum_nl.ts \
+  qt/locale/dogetoreum_pl.ts \
+  qt/locale/dogetoreum_pt.ts \
+  qt/locale/dogetoreum_ro.ts \
+  qt/locale/dogetoreum_ru.ts \
+  qt/locale/dogetoreum_sk.ts \
+  qt/locale/dogetoreum_th.ts \
+  qt/locale/dogetoreum_tr.ts \
+  qt/locale/dogetoreum_vi.ts \
+  qt/locale/dogetoreum_zh_CN.ts \
+  qt/locale/dogetoreum_zh_TW.ts

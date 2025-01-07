@@ -1,0 +1,25 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="ar">locale/dogetoreum_ar.qm</file>
+        <file alias="bg">locale/dogetoreum_bg.qm</file>
+        <file alias="de">locale/dogetoreum_de.qm</file>
+        <file alias="en">locale/dogetoreum_en.qm</file>
+        <file alias="es">locale/dogetoreum_es.qm</file>
+        <file alias="fi">locale/dogetoreum_fi.qm</file>
+        <file alias="fr">locale/dogetoreum_fr.qm</file>
+        <file alias="it">locale/dogetoreum_it.qm</file>
+        <file alias="ja">locale/dogetoreum_ja.qm</file>
+        <file alias="ko">locale/dogetoreum_ko.qm</file>
+        <file alias="nl">locale/dogetoreum_nl.qm</file>
+        <file alias="pl">locale/dogetoreum_pl.qm</file>
+        <file alias="pt">locale/dogetoreum_pt.qm</file>
+        <file alias="ro">locale/dogetoreum_ro.qm</file>
+        <file alias="ru">locale/dogetoreum_ru.qm</file>
+        <file alias="sk">locale/dogetoreum_sk.qm</file>
+        <file alias="th">locale/dogetoreum_th.qm</file>
+        <file alias="tr">locale/dogetoreum_tr.qm</file>
+        <file alias="vi">locale/dogetoreum_vi.qm</file>
+        <file alias="zh_CN">locale/dogetoreum_zh_CN.qm</file>
+        <file alias="zh_TW">locale/dogetoreum_zh_TW.qm</file>
+    </qresource>
+</RCC>

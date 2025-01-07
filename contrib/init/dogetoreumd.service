@@ -1,0 +1,22 @@
+[Unit]
+Description=Dogetoreum's distributed currency daemon
+After=network.target
+
+[Service]
+User=dogetoreumcore
+Group=dogetoreumcore
+
+Type=forking
+PIDFile=/var/lib/dogetoreumd/dogetoreumd.pid
+ExecStart=/usr/bin/dogetoreumd -daemon -pid=/var/lib/dogetoreumd/dogetoreumd.pid \
+-conf=/etc/dogetoreumcore/dogetoreum.conf -datadir=/var/lib/dogetoreumd -disablewallet
+
+Restart=always
+PrivateTmp=true
+TimeoutStopSec=60s
+TimeoutStartSec=2s
+StartLimitInterval=120s
+StartLimitBurst=5
+
+[Install]
+WantedBy=multi-user.target
